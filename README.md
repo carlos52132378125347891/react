@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HEAD
 # React + Vite
 
@@ -19,3 +20,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # Actividad-react
 contador
 723637e536f7d6573efb091631fea1dfc6f1660f
+=======
+# react
+react
+>>>>>>> b3c9130b095e3b19b3c92fd4b5ce9efb9d288283
